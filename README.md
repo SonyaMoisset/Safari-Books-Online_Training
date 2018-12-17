@@ -8,3 +8,4 @@
 - Kali Linux Tutorial For Beginners | 8h 29m
 - Hands-On Web Penetration Testing with Kali Linux | 1h 51m
 - Learning Path: Intelligence Gathering with Kali Linux | 1h 11m
+- earning Path: Introduction to Network Analysis | 2h 18m
