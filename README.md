@@ -14,3 +14,4 @@
 ## Talks
 - The challenges of migrating 150+ microservices to Kubernetes - Sarah Wells (Financial Times) | 22m
 - Are microservices a security threat? - Liz Rice (Aqua Security) | 20m
+- Leveraging Containers for Improved Security - Ashley Ward (Twistlock) | 42m
