@@ -7,6 +7,7 @@
 ## Videos
 - Kali Linux Tutorial For Beginners | 8h 29m
 - Hands-On Web Penetration Testing with Kali Linux | 1h 51m
+- Kali Linux: Tips, Tricks and Techniques | 2h 4m
 - Information gathering with Kali Linux | 2h
 - Gaining Access and Covering Your Tracks with Kali Linux | 1h 48m
 - Hacking Web Applications The Art of Hacking Series LiveLessons: Security Penetration Testing for Today's DevOps and Cloud Environments | 5h 26m
